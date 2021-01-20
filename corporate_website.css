@@ -1,0 +1,68 @@
+body{
+	background: #F08080
+}
+
+a:link, a:visited
+			{
+				background-color: red;
+				color: white;
+				padding: 15px;
+				text-align: center;
+				text-decoration: none;
+				display: inline-block;
+				border-radius: 10px;
+			}
+		a:hover, a:active
+		{
+			background-color: #d60a70;
+		}
+
+p{
+
+	font-family: 'Fraunces', serif;
+	font-size: 30px;
+	color: purple
+}
+
+p{
+	text-align: justify;
+}
+
+h1{
+	font-family: 'Fraunces', serif;
+	font-family: 'Potta One', cursive;
+	font-size: 40px;
+}
+
+h1{
+	border: 5px solid black;
+	background-color: #c62ab6;
+}
+
+h2{
+	font-family: 'Ultra', serif;
+	font-size: 30px;
+	color: #b01178
+}
+h2{
+	border: 5px solid black;
+	padding: 10px;
+	border-radius: 30px;
+	background-color: aqua;
+}
+
+
+ul{
+	font-family: 'Fredoka One', cursive;
+	font-size: 30px;
+	color: blue
+}
+
+img{
+	border: 10px solid white;
+	border-radius: 30px;
+}
+
+
+
+
